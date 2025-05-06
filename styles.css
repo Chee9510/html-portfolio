@@ -1,0 +1,42 @@
+html.rolldicepage .container {
+    width: 70%;
+    margin: auto;
+    text-align: center;
+  }
+  
+  html.rolldicepage .dice {
+    text-align: center;
+    display: inline-block;
+  
+  }
+  
+  html.rolldicepage body {
+    background-color: #393E46;
+  }
+  
+  html.rolldicepage h1{
+    margin: 30px;
+    font-family: 'Lobster', cursive;
+    text-shadow: 5px 0 #232931;
+    font-size: 8rem;
+    color: #4ECCA3;
+  }
+  
+  html.rolldicepage p {
+    font-size: 2rem;
+    color: #4ECCA3;
+    font-family: 'Indie Flower', cursive;
+  }
+  
+  html.rolldicepage img {
+    width: 80%;
+  }
+  
+  html.rolldicepage footer {
+    margin-top: 5%;
+    color: #EEEEEE;
+    text-align: center;
+    font-family: 'Indie Flower', cursive;
+  
+  }
+  
